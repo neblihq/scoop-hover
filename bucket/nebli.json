@@ -1,12 +1,12 @@
 {
-  "version": "0.1.327",
+  "version": "0.1.329",
   "description": "Drone relay CLI for Nebli",
   "homepage": "https://nebli.ai",
   "license": "Proprietary",
   "architecture": {
     "64bit": {
-      "url": "https://downloads.nebli.ai/cli/versions/v0.1.327/nebli-windows-amd64.zip",
-      "hash": "c37b336c9accd4d1b113618b28b64da9c6cf338033c444009c4191849b6a8a10",
+      "url": "https://downloads.nebli.ai/cli/versions/v0.1.329/nebli-windows-amd64.zip",
+      "hash": "8a93ae576fc5d9a1343b373fc8c782bdea2f8f8c71d0992397ce75c893a36920",
       "bin": "nebli.exe"
     }
   }
